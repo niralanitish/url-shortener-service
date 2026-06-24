@@ -1,0 +1,6 @@
+{
+  "name": "URL Shortener Service",
+  "description": "A beginner-friendly full-stack URL Shortener Service with Java Spring Boot backend and React Vite frontend, featuring shortened links creation, list view, copywriting, and redirects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

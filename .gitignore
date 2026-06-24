@@ -1,0 +1,28 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Maven Build Directories and Outputs
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Editor and Project Specific Settings
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Local database locks and temp files
+*.db
+.h2.db
+

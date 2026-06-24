@@ -2,39 +2,51 @@
 
 **Internship ID:** CTTS122
 
-## Beginner-Friendly Full-Stack URL Shortener Service
+A full-stack URL Shortener application built using React, TypeScript, Node.js, Express, and Vite.
 
-Welcome to the URL Shortener Service, a high-quality, full-stack portfolio project designed specifically for internship submissions and GitHub developer portfolios. This project implements a reliable URL shortening system with a modern responsive frontend and backend architecture.
+## 🚀 Live Demo
 
-### Project Information
+**Application URL:**
+https://url-shortener-service-6f0u.onrender.com
 
-* **Project Name:** URL Shortener Service
-* **Internship ID:** CTTS122
-* **Technology Stack:** React, TypeScript, Express, Node.js, Vite
-* **Project Type:** Full-Stack Web Application
-* **Purpose:** Internship Submission & GitHub Portfolio
+## 📂 GitHub Repository
 
-### Features
+https://github.com/niralanitish/url-shortener-service
 
-* URL Shortening
-* URL Redirection
-* Copy to Clipboard
-* Recent Links History
-* Responsive User Interface
+## ✨ Features
 
-### Installation
+* Shorten long URLs
+* Redirect to original URLs
+* Copy shortened links
+* View recently generated links
+* Responsive UI
+* Live deployment on Render
+
+## 🛠️ Tech Stack
+
+* React
+* TypeScript
+* Node.js
+* Express
+* Vite
+* Render
+
+## 🏃 Run Locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-### Deployment
+## 📌 Internship Submission Details
 
-Frontend and backend are configured for cloud deployment through GitHub integration.
+* **Project Name:** URL Shortener Service
+* **Internship ID:** CTTS122
+* **Deployment:** Render
+* **Project Type:** Full-Stack Web Application
 
-### Author
+## 👨‍💻 Author
 
-Submitted as part of Internship Program.
+Nitish
 
-**Internship ID: CTTS122**
+Internship Project Submission – CTTS122
